@@ -1,0 +1,16 @@
+.App {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+.heading {
+}
+
+.btn-book {
+  padding: 0.5rem;
+  margin: 1rem;
+  font-size: medium;
+  border-radius: 0.5rem;
+  background-color: coral;
+}
